@@ -1,0 +1,23 @@
+
+.card {
+    margin: auto;
+    margin-bottom: 10px;
+}
+#instagram-text {
+    margin-left: -450px;
+}
+#square-black {
+    background-color: black;
+    border-radius: 20%;
+}
+body {
+    background-color: black;
+}
+#padre {
+    background-color: white;
+    width: 60%;
+    margin: auto;
+}
+/* .nav{
+    justify-content: center;
+} */
